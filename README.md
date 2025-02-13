@@ -11,7 +11,7 @@ Este proyecto tiene como objetivo construir un modelo de machine learning para p
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/proyecto_reto.git
+   git clone https://github.com/LinaAguilar/reto-MELI-DS.git
    cd proyecto_reto
 
 2. Instalar dependencias:
