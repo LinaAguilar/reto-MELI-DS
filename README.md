@@ -18,9 +18,9 @@ Este proyecto tiene como objetivo construir un modelo de machine learning para p
     pip install -r requirements.txt
 
 3. Ejecutar el pipeline completo:
-    python src/preprocesamiento.py
-    python src/entrenamiento.py
-    python src/evaluacion.py
+    python src/preprocessing.py
+    python src/training.py
+    python src/evaluation.py
 
 4. Ver los resultados en la carpeta resultados/.
     
